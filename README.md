@@ -1,4 +1,4 @@
-- 👋 Hello there! Welcome to my GitHub profile. Here's a short bio to introduce myself as a data analyst:
+- 👋 Hello there! Welcome to my GitHub profile. Here's a short bio to introduce myself as a Analytics professional:
 -  📊 Data Analysis And Visualization | Problem Solver 🧩 
 - 🔎 About Me:
   I am a passionate data analyst with a keen eye for detail and a knack for extracting valuable insights from complex datasets.
